@@ -22,6 +22,7 @@ For general information about ZAP:
   * [Blog](https://zaproxy.blogspot.com/)	- official ZAP blog
   * [Monthly Newsletters](https://github.com/zaproxy/zaproxy/wiki/Newsletters) - ZAP news, tutorials, 3rd party tools and featured contributors
   * [Swag!](https://github.com/zaproxy/zap-swag) - official ZAP swag that you can buy, as well as all of the original artwork released under the CC License
+  add
 
 For help using ZAP:
   * [Getting Started Guide (pdf)](https://github.com/zaproxy/zaproxy/releases/download/2.7.0/ZAPGettingStartedGuide-2.7.pdf) - an introductory guide you can print
