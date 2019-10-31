@@ -64,4 +64,5 @@ Contributors:
   * [Code Contributors](https://www.openhub.net/p/zaproxy)
   * [ZAP core i18n Contributors](https://crowdin.com/project/owasp-zap)
   * [ZAP help i18n Contributors](https://crowdin.com/project/owasp-zap-help)
+    end line
 
