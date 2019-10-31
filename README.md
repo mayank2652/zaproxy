@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zaproxy.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/zaproxy)
 
 The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers[*](#justification). It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.
-add new
+gdfbd
 
 [![](https://raw.githubusercontent.com/wiki/zaproxy/zaproxy/images/ZAP-Download.png)](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
@@ -22,7 +22,7 @@ For general information about ZAP:
   * [Blog](https://zaproxy.blogspot.com/)	- official ZAP blog
   * [Monthly Newsletters](https://github.com/zaproxy/zaproxy/wiki/Newsletters) - ZAP news, tutorials, 3rd party tools and featured contributors
   * [Swag!](https://github.com/zaproxy/zap-swag) - official ZAP swag that you can buy, as well as all of the original artwork released under the CC License
-  add
+
 
 For help using ZAP:
   * [Getting Started Guide (pdf)](https://github.com/zaproxy/zaproxy/releases/download/2.7.0/ZAPGettingStartedGuide-2.7.pdf) - an introductory guide you can print
